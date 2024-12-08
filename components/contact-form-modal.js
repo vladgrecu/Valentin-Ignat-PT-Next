@@ -60,7 +60,7 @@ const ContactFormModal = (props) => {
               className="form-input input"
             />
             <textarea
-              name="text"
+              name="message"
               rows="3"
               form-field="true"
               placeholder="Mesaj"
